@@ -8,6 +8,6 @@ public class Goma extends Pato {
     }
 
     public String dibujar() {
-        return "- Soy un pato de Goma -";
+        return "- Soy un pato -";
     }
 }
